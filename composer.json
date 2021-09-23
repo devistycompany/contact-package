@@ -12,10 +12,7 @@
         "laravel": {
             "providers": [
                 "Devisty\\Contact\\ContactServiceProvider"
-            ],
-            "aliases": {
-                "Debugbar": "Barryvdh\\Debugbar\\Facade"
-            }
+            ]
         }
     },
     "authors": [
