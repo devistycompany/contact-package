@@ -7,7 +7,7 @@
 
 [![Latest Version](https://img.shields.io/github/release/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/releases)
 
-[![Total Download](https://img.shields.io/github/release/devistycompany/contact-package?style=flat-square)](https://packagist.org/packages/devisty/contact)
+[![Total Download](https://img.shields.io/packagist/dt/devisty/contact.svg?style=flat-square)](https://packagist.org/packages/devisty/contact)
 
 
 ## Package untuk kirim email ke admin dan menyimpan query ke database
