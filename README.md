@@ -1,5 +1,5 @@
 # Contact Us Package
-[![Latest Version](https://img.shields.io/github/release/devisty/contact.svg?style=flat-square)](https://github.com/devistycompany/contact-package/releases)
+[![Latest Version](https://img.shields.io/github/release/devistycompany/contact-package.svg?style=flat-square)](https://github.com/devistycompany/contact-package/releases)
 
 [![stars](https://img.shields.io/github/stars/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/stargazers)
 
