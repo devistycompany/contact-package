@@ -1,0 +1,19 @@
+{
+    "name": "devisty/contact",
+    "description": "Package untuk kirim email ke admin dan menyimpan query ke database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devisty\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hilmiabdulazisfirmansyah",
+            "email": "hilmiabdulazisfirmansyah@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
