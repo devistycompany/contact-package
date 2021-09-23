@@ -1,11 +1,7 @@
 # Contact Us Package
-[![issues](https://img.shields.io/github/issues/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/issues)
-
-[![forks](https://img.shields.io/github/forks/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/network)
+[![Latest Version](https://img.shields.io/github/release/devisty/contact.svg?style=flat-square)](https://github.com/devistycompany/contact-package/releases)
 
 [![stars](https://img.shields.io/github/stars/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/stargazers)
-
-[![Latest Version](https://img.shields.io/github/release/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/releases)
 
 [![Total Download](https://img.shields.io/packagist/dt/devisty/contact.svg?style=flat-square)](https://packagist.org/packages/devisty/contact)
 
