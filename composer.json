@@ -8,6 +8,16 @@
             "Devisty\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Devisty\\Contact\\ContactServiceProvider"
+            ],
+            "aliases": {
+                "Debugbar": "Barryvdh\\Debugbar\\Facade"
+            }
+        }
+    },
     "authors": [
         {
             "name": "hilmiabdulazisfirmansyah",
