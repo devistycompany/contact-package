@@ -1,5 +1,5 @@
 # Contact Us Package
-[![stars](https://img.shields.io/github/stars/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/stargazers)[![Total Download](https://img.shields.io/packagist/dt/devisty/contact.svg?style=flat-square)](https://packagist.org/packages/devisty/contact)
+[![stars](https://img.shields.io/github/stars/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/stargazers) [![Total Download](https://img.shields.io/packagist/dt/devisty/contact.svg?style=flat-square)](https://packagist.org/packages/devisty/contact)
 
 
 ## Package untuk kirim email ke admin dan menyimpan query ke database
