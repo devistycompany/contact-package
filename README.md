@@ -1,13 +1,13 @@
 # Contact Us Package
-[![issues](https://img.shields.io/github/issues/devistycompany/contact-package?style=for-the-badge)](https://github.com/devistycompany/contact-package/issues)
+[![issues](https://img.shields.io/github/issues/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/issues)
 
-[![forks](https://img.shields.io/github/forks/devistycompany/contact-package?style=for-the-badge)](https://github.com/devistycompany/contact-package/network)
+[![forks](https://img.shields.io/github/forks/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/network)
 
-[![stars](https://img.shields.io/github/stars/devistycompany/contact-package?style=for-the-badge)](https://github.com/devistycompany/contact-package/stargazers)
+[![stars](https://img.shields.io/github/stars/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/stargazers)
 
-[![Latest Version](https://img.shields.io/github/release/devistycompany/contact-package?style=for-the-badge)](https://github.com/devistycompany/contact-package/release)
+[![Latest Version](https://img.shields.io/github/release/devistycompany/contact-package?style=flat-square)](https://github.com/devistycompany/contact-package/release)
 
-[![Total Download](https://img.shields.io/github/release/devistycompany/contact-package?style=for-the-badge)](https://packagist.org/packages/devisty/contact)
+[![Total Download](https://img.shields.io/github/release/devistycompany/contact-package?style=flat-square)](https://packagist.org/packages/devisty/contact)
 
 
 ## Package untuk kirim email ke admin dan menyimpan query ke database
