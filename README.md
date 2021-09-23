@@ -39,5 +39,5 @@ php artisan serve
 
 ## Tinggal Browse deh
 ```bash
-http://localhost:8000
+http://localhost:8000/contact
 ```
