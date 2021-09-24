@@ -16,6 +16,9 @@ class ContactServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__.'/config/contact.php' => config_path('contact.php'),
         ]);
+        $this->publishes([
+            __DIR__.'/views/layouts/contact.blade.php' => resource_path('views/layouts/contact.blade.php'),
+        ]);
     }
 
     public function register()
